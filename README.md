@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://hits.sh/github.com/masterxhackerx420-oss/rex-deadman-switch/">
+    <img src="https://hits.sh/github.com/masterxhackerx420-oss/rex-deadman-switch.svg?style=for-the-badge&label=Visitors&color=8b5cf6&logo=eye" alt="Visitors" />
+  </a>
+</p>
+
 # Rex's Deadman Switch
 
 ![A hooded skull with a cigar, a dead man's lever, a dark terminal, and a sealed envelope on a coal desk.](switch.jpg)
